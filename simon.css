@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+h5{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.btn-contain
+{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 8rem;
+    width: 8rem;
+    border: 5px solid black;
+    border-radius: 2rem;
+    margin: 1.5rem 1rem 0rem 0rem;
+}
+.red
+{
+    background-color: rgb(188, 92, 92);
+}
+.yellow
+{
+    background-color: rgb(210, 210, 84);
+}
+.green
+{
+    background-color: rgb(111, 213, 111);
+}
+.blue
+{
+    background-color: rgb(105, 105, 212);
+}
+.flash
+{
+    background-color: white;
+}
