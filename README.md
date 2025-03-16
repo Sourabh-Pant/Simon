@@ -1,2 +1,3 @@
 A basic simon game.
-It will help you learn JS more deeply.
+Why it's differnet frojm others because it helps you keep track of highest score.
+A newbie should try creating it for sharping it's JS skill
